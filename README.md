@@ -3,13 +3,13 @@ Detect the flow of into and the level of water in a tank.  Calculate the remaing
 
 Hardawre
 
-Arduino nano 33 IOT
-FL308T
-XKC-Y25-T12V
-AJ-SRO-4M
-RAG LEDs
-Resistors for LED voltage protection and voltage divider for signals from 5 V sensors.
-protoboard
+Arduino nano 33 IOT, 
+FL308T, 
+XKC-Y25-T12V, 
+AJ-SRO-4M, 
+RAG LEDs, 
+Resistors for LED voltage protection and voltage divider for signals from 5 V sensors, 
+protoboard.
 
 Introduction
 
