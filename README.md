@@ -23,6 +23,9 @@ An array of three LDEs, red, amber & green is mounted to protoboard and is visib
 
 The calculated flow and volume are then reported to a MQTT broker.
 
+issues
+The flow calculation is currently incorrect.  It is currently a place holder for debuging.
+
 Further Development
 
 inclusion of a thermistor to detect the water temprature.
